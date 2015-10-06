@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1444133087 source:c:\users\qi\documents\github\index\main.cpp
+	<iostream>
+	"Match.h"
+	"stdlib.h"
+	"Time.h"
+
+1444133238 c:\users\qi\documents\github\index\match.h
+	"Time.h"
+	"Match.h"
+
+1444133238 c:\users\qi\documents\github\index\time.h
+
+1444132897 source:c:\users\qi\documents\github\index\match.cpp
+	"Match.h"
+	<iostream>
+
+1444132897 source:c:\users\qi\documents\github\index\time.cpp
+	<iostream>
+	"Time.h"
+
